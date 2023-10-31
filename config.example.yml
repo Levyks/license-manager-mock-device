@@ -1,0 +1,13 @@
+baseUrl: https://example.org
+# in seconds
+interval: 60
+# in kilometers per hour
+speed: 60
+devices:
+  - licenseId: 4f7b4cad-fad3-4fce-800d-0a9b09543dba
+    start:
+      lat: -3.889404
+      lng: -38.504598
+    end:
+      lat: -3.8798118
+      lng: -38.6215567
